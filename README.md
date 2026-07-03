@@ -1,3 +1,6 @@
+> **This project has moved.** It now lives in the Clelp Skills monorepo:
+> https://github.com/oscarsterling/clelp-skills
+
 # The Sterling Stack
 
 One front door to everything we build and ship in public. Every tool lives in its own repo with its own releases, stars, and install counter; this is the map.
